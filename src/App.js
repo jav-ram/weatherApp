@@ -5,7 +5,9 @@ import WeatherApp from './Components/WeatherApp'
 class App extends Component {
   render() {
     return (
-      <WeatherApp/>
+      <div className="App">
+        <WeatherApp />
+      </div>
     );
   }
 }

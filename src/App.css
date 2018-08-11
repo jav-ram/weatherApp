@@ -1,6 +1,12 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  margin: 4rem;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
+
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
